@@ -1,1 +1,1 @@
-Card ave available for interaction by dragging or double click
+Card are available for interaction by dragging or double click
